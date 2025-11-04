@@ -1,271 +1,273 @@
-Distrito,Concelho,Vinho_Tinto,Vinho_Rosado,Vinho_Branco,Vinho_Total
-Aveiro,Águeda,324.0,660.0,389.5,1373.5
-Aveiro,Albergaria-a-Velha,29.4,0.0,0.34,29.74
-Aveiro,Anadia,15377.55,8440.119999999999,5908.01,29725.68
-Aveiro,Arouca,4.0,0.0,0.0,4.0
-Aveiro,Aveiro,80.0,0.0,23.0,103.0
-Aveiro,Castelo de Paiva,40.0,0.0,179.0,219.0
-Aveiro,Estarreja,16.0,0.0,6.0,22.0
-Aveiro,Ílhavo,7.5,4.0,0.0,11.5
-Aveiro,Mealhada,3286.9000000000005,5.0,473.35,3765.2500000000005
-Aveiro,Oliveira de Azeméis,2.06,0.0,0.0,2.06
-Aveiro,Oliveira do Bairro,4895.35,35.5,900.85,5831.700000000001
-Aveiro,Santa Maria da Feira,0.0,0.0,0.0,0.0
-Aveiro,Sever do Vouga,60.0,0.0,0.0,60.0
-Aveiro,Vagos,109.3,0.0,0.0,109.3
-Aveiro,Vale de Cambra,30.0,131.77,95.0,256.77
-Beja,Aljustrel,570.0,0.0,540.0,1110.0
-Beja,Alvito,0.0,0.0,0.0,0.0
-Beja,Beja,45.0,0.0,21.0,66.0
-Beja,Castro Verde,0.0,0.0,0.0,0.0
-Beja,Cuba,0.0,0.0,0.0,0.0
+Distrito,Concelho,TotalGeral_Tinto,TotalGeral_Rosado,TotalGeral_Branco,TotalGeral_Total
+Aveiro,Águeda,1361.55,1665.5,3432.25,6459.3
+Aveiro,Albergaria-a-Velha,223.0,21.0,265.0,509.0
+Aveiro,Anadia,29328.13,35995.28,34513.240000000005,99836.65
+Aveiro,Arouca,95.43,0.0,267.47,362.9
+Aveiro,Aveiro,62.5,0.0,18.0,80.5
+Aveiro,Castelo de Paiva,5353.799999999999,86.0,14810.680000000002,20250.48
+Aveiro,Estarreja,14.0,6.0,21.0,41.0
+Aveiro,Ílhavo,18.0,11.0,0.0,29.0
+Aveiro,Mealhada,4015.4500000000003,1617.5,4522.5,10155.45
+Aveiro,Oliveira de Azeméis,0.0,0.0,8.0,8.0
+Aveiro,Oliveira do Bairro,3174.85,456.5,5163.45,8794.8
+Aveiro,Santa Maria da Feira,4.0,0.0,0.0,4.0
+Aveiro,Sever do Vouga,73.05,10.0,84.35,167.39999999999998
+Aveiro,Vagos,70.0,0.0,68.0,138.0
+Aveiro,Vale de Cambra,757.0,650.0,1849.6999999999998,3256.7000000000003
+Beja,Aljustrel,4758.5,0.0,1330.8,6089.3
+Beja,Alvito,2676.5,36.5,917.0,3630.0
+Beja,Beja,39252.549999999996,2867.39,10971.19,53091.13
+Beja,Castro Verde,1400.0,0.0,600.0,2000.0
+Beja,Cuba,6804.8,1103.6,2887.3999999999996,10795.8
 Beja,Ferreira do Alentejo,0.0,0.0,0.0,0.0
-Beja,Mértola,0.0,0.0,0.0,0.0
-Beja,Moura,33.42,0.0,43.63,77.05000000000001
-Beja,Odemira,10.0,0.0,13.0,23.0
-Beja,Ourique,62.5,0.0,10.0,72.5
-Beja,Serpa,0.0,0.0,0.0,0.0
-Beja,Vidigueira,28.5,1172.0,22.4,1222.9
-Braga,Amares,27.1,30.0,127.25,184.35
-Braga,Barcelos,19.5,0.0,108.7,128.2
-Braga,Braga,0.0,0.0,170.0,170.0
-Braga,Cabeceiras de Basto,37.9,22.5,155.0,215.4
-Braga,Celorico de Basto,127.5,12.0,127.35000000000001,266.85
-Braga,Esposende,0.0,0.0,0.0,0.0
-Braga,Fafe,9.39,0.0,0.0,9.39
-Braga,Guimarães,65.17,32.6,346.59,444.36
-Braga,Póvoa de Lanhoso,0.0,0.0,0.0,0.0
-Braga,Terras de Bouro,0.0,0.0,0.0,0.0
-Braga,Vieira do Minho,0.0,0.0,0.0,0.0
-Braga,Vila Nova de Famalicão,4.0,23.0,620.5,647.5
-Braga,Vila Verde,0.0,0.0,0.0,0.0
-Braga,Vizela,5.0,1.0,0.0,6.0
-Bragança,Alfandega da Fé,21.3,0.0,1.0,22.3
-Bragança,Bragança,49.62,8.0,18.0,75.62
-Bragança,Carrazeda de Ansiães,642.29,4.5,40.8,687.59
-Bragança,Freixo Espada à Cinta,978.0999999999999,5.5,449.3,1432.8999999999999
-Bragança,Macedo de Cavaleiros,5109.5,0.0,2.5,5112.0
-Bragança,Miranda do Douro,5698.55,11.4,1922.2,7632.15
-Bragança,Mirandela,40.0,0.0,0.0,40.0
-Bragança,Mogadouro,895.38,43956.14,151.89999999999998,45003.42
-Bragança,Torre de Moncorvo,64.23,0.0,0.0,64.23
-Bragança,Vila Flor,198.29,0.0,8.66,206.95
-Bragança,Vimioso,1465.1399999999996,27.0,26.5,1518.6399999999996
-Bragança,Vinhais,10410.0,0.0,1920.0,12330.0
-Castelo Branco,Belmonte,59.75,0.0,2.6,62.35
-Castelo Branco,Castelo Branco,135.5,0.0,0.0,135.5
-Castelo Branco,Covilhã,39.43,0.0,0.0,39.43
-Castelo Branco,Fundão,95.5,25.0,0.0,120.5
-Castelo Branco,Oleiros,0.0,0.0,0.0,0.0
-Castelo Branco,Penamacor,20.0,0.0,0.0,20.0
-Castelo Branco,Proença-a-Nova,389.0,0.0,52.0,441.0
-Castelo Branco,Sertã,264.0,0.0,78.0,342.0
-Castelo Branco,Vila Velha de Rodão,0.0,0.0,0.0,0.0
-Coimbra,Arganil,7.0,0.0,0.0,7.0
-Coimbra,Cantanhede,5947.450000000001,1494.86,1024.6299999999999,8466.94
-Coimbra,Coimbra,1039.8000000000002,507.0,563.3,2110.1000000000004
-Coimbra,Condeixa-a-Nova,809.0,5.0,141.0,955.0
-Coimbra,Figueira da Foz,15.0,0.0,0.0,15.0
-Coimbra,Lousã,0.0,0.0,0.0,0.0
-Coimbra,Miranda do Corvo,1005.75,0.0,242.0,1247.75
-Coimbra,Montemor-o-Velho,0.0,0.0,0.0,0.0
-Coimbra,Oliveira do Hospital,17.25,0.0,12.25,29.5
-Coimbra,Penacova,64.0,2.0,13.0,79.0
-Coimbra,Penela,547.0,47.3,164.0,758.3
-Coimbra,Soure,87.0,0.0,18.0,105.0
-Coimbra,Tábua,2.5,0.0,0.0,2.5
-Évora,Arraiolos,8.4,0.0,371.0,379.4
-Évora,Borba,0.0,0.0,0.0,0.0
-Évora,Estremoz,200.0,2168.65,175.0,2543.65
-Évora,Évora,0.0,0.0,0.0,0.0
-Évora,Montemor-o-Novo,42.0,0.0,6.5,48.5
-Évora,Mora,129.4,0.0,33.0,162.4
-Évora,Mourão,0.0,0.0,0.0,0.0
-Évora,Portel,0.0,0.0,0.0,0.0
-Évora,Redondo,4457.82,0.0,10.0,4467.82
-Évora,Reguengos Monsaraz,15.0,50.0,0.0,65.0
-Évora,Vendas Novas,1150.0,0.0,500.0,1650.0
-Évora,Viana do Alentejo,0.0,0.0,0.0,0.0
-Évora,Vila Viçosa,25.0,0.0,25.0,50.0
-Faro,Albufeira,0.0,0.0,0.0,0.0
-Faro,Aljezur,24.0,13.0,8.5,45.5
-Faro,Castro Marim,0.0,0.0,0.0,0.0
-Faro,Faro,0.0,0.0,0.0,0.0
-Faro,Lagoa (Algarve),0.17,0.27,0.62,1.06
-Faro,Lagos,16.0,0.0,4.5,20.5
-Faro,Loulé,0.0,0.0,0.0,0.0
-Faro,Monchique,0.0,0.0,0.0,0.0
-Faro,Portimão,0.0,0.0,0.0,0.0
-Faro,São Brás de Alportel,90.0,0.0,0.0,90.0
-Faro,Silves,41.0,0.0,3.55,44.55
-Faro,Tavira,60.0,0.0,0.0,60.0
-Faro,Vila do Bispo,2.2,0.0,0.0,2.2
-Faro,Vila Real Santo António,0.0,0.0,0.0,0.0
-Guarda,Aguiar da Beira,10.0,0.0,0.0,10.0
-Guarda,Almeida,13.9,3.5,2.8,20.2
-Guarda,Celorico da Beira,31.13,0.0,0.0,31.13
-Guarda,Figueira Castelo Rodrigo,15.0,0.0,6.0,21.0
-Guarda,Fornos de Algodres,5.0,0.0,1.5,6.5
-Guarda,Gouveia,331.8,0.0,45.1,376.90000000000003
-Guarda,Guarda,87.83,1.0,7.5,96.33
-Guarda,Meda,1768.6699999999998,142.5,89.13,2000.2999999999997
-Guarda,Pinhel,29180.4,10100.0,12984.4,52264.8
-Guarda,Seia,59.5,0.0,16.5,76.0
-Guarda,Trancoso,1935.5,570.0,470.0,2975.5
-Guarda,Vila Nova de Foz Côa,6260.58,32.5,119.53,6412.61
-Leiria,Alcobaça,814.94,37.0,282.08,1134.02
-Leiria,Alvaiázere,227.0,3.0,57.0,287.0
-Leiria,Ansião,187.65,0.0,29.55,217.20000000000002
-Leiria,Batalha,2473.0,300.0,795.0,3568.0
-Leiria,Bombarral,3824.2999999999997,2795.25,2091.35,8710.9
-Leiria,Caldas da Rainha,2406.9,134.4,1271.2,3812.5
-Leiria,Figueiró dos Vinhos,48.5,1.0,16.75,66.25
-Leiria,Leiria,1149.0,0.0,194.0,1343.0
-Leiria,Óbidos,641.3,52.6,357.3,1051.2
+Beja,Mértola,662.0,15.0,330.25,1007.25
+Beja,Moura,9519.47,33.0,3394.29,12946.759999999998
+Beja,Odemira,1629.75,121.0,1260.5,3011.25
+Beja,Ourique,38.6,0.0,0.0,38.6
+Beja,Serpa,15441.18,517.6800000000001,3337.76,19296.620000000003
+Beja,Vidigueira,72807.09999999999,3071.5,47315.75,123194.35
+Braga,Amares,1906.6,419.25,25840.48,28166.329999999998
+Braga,Barcelos,3205.56,376.74,39581.37,43163.67
+Braga,Braga,1404.35,138.5,2850.94,4393.789999999999
+Braga,Cabeceiras de Basto,3541.07,600.5,5321.66,9463.230000000001
+Braga,Celorico de Basto,10608.250000000002,7451.5,61273.96,79333.71
+Braga,Esposende,215.25,284.5,2728.7,3228.45
+Braga,Fafe,6320.64,0.0,18609.15,24929.790000000005
+Braga,Guimarães,3165.32,917.12,17991.989999999998,22074.43
+Braga,Póvoa de Lanhoso,1528.5,0.0,7391.280000000001,8919.78
+Braga,Terras de Bouro,76.23,0.0,1.65,77.88000000000001
+Braga,Vieira do Minho,74.0,0.0,0.0,74.0
+Braga,Vila Nova de Famalicão,1756.12,1492.95,14552.100000000002,17801.170000000002
+Braga,Vila Verde,1325.6499999999996,174.5,1895.69,3395.8399999999997
+Braga,Vizela,2002.59,1079.71,10204.02,13286.32
+Bragança,Alfandega da Fé,145.8,16.0,66.0,227.8
+Bragança,Bragança,239.49,14.35,63.8,317.64
+Bragança,Carrazeda de Ansiães,28338.940000000006,206.2,7760.42,36305.560000000005
+Bragança,Freixo Espada à Cinta,24694.48,229.56,4947.259999999999,29871.3
+Bragança,Macedo de Cavaleiros,7199.53,236.7,413.5,7849.73
+Bragança,Miranda do Douro,1904.61,115.92,570.86,2591.39
+Bragança,Mirandela,2896.5,112.5,450.3,3459.3
+Bragança,Mogadouro,655.0,41745.88,3950.71,46351.59
+Bragança,Torre de Moncorvo,19382.89,284.5,4639.710000000001,24307.1
+Bragança,Vila Flor,23099.800000000003,853.29,3038.2999999999997,26991.39
+Bragança,Vimioso,1260.1499999999996,21.5,28.1,1309.7499999999995
+Bragança,Vinhais,11365.0,0.0,1735.0,13100.0
+Castelo Branco,Belmonte,3223.2,59.0,1035.0,4317.2
+Castelo Branco,Castelo Branco,301.16,5.8,55.7,362.66
+Castelo Branco,Covilhã,508.0,20.02,84.44,612.4599999999999
+Castelo Branco,Fundão,4494.38,16.0,555.98,5066.36
+Castelo Branco,Oleiros,20.0,0.0,10.0,30.0
+Castelo Branco,Penamacor,208.5,0.0,67.5,276.0
+Castelo Branco,Proença-a-Nova,578.0,29.0,106.0,713.0
+Castelo Branco,Sertã,115.11000000000001,2.4,30.8,148.31
+Castelo Branco,Vila Velha de Rodão,52.0,0.0,165.0,217.0
+Coimbra,Arganil,59.0,12.0,25.0,96.0
+Coimbra,Cantanhede,15291.210000000001,6473.629999999999,22980.57,44745.41
+Coimbra,Coimbra,1471.9,215.0,1246.87,2933.77
+Coimbra,Condeixa-a-Nova,644.1600000000001,7.5,170.0,821.6600000000001
+Coimbra,Figueira da Foz,0.0,0.0,0.0,0.0
+Coimbra,Lousã,152.5,0.0,70.0,222.5
+Coimbra,Miranda do Corvo,1730.25,31.0,406.25,2167.5
+Coimbra,Montemor-o-Velho,3.5,0.0,1.0,4.5
+Coimbra,Oliveira do Hospital,244.5,0.8,318.05,563.35
+Coimbra,Penacova,46.45,0.0,8.75,55.2
+Coimbra,Penela,1028.32,122.5,327.0,1477.82
+Coimbra,Soure,70.65,0.0,11.1,81.75
+Coimbra,Tábua,27.68,7.18,64.48,99.34
+Évora,Arraiolos,39479.55,2748.0,7963.09,50190.64
+Évora,Borba,120428.45,4911.0,40770.759999999995,166110.21
+Évora,Estremoz,65015.03,5432.75,18040.730000000003,88488.51
+Évora,Évora,62106.67,8000.4400000000005,28497.510000000002,98604.62
+Évora,Montemor-o-Novo,14670.0,407.0,2768.6,17845.6
+Évora,Mora,432.7,28.5,45.95,507.15
+Évora,Mourão,17144.0,720.0,1721.0,19585.0
+Évora,Portel,356.78999999999996,22.0,222.0,600.79
+Évora,Redondo,89150.01,5500.02,27846.91,122496.94
+Évora,Reguengos Monsaraz,164408.31,3222.2,45769.25,213399.76
+Évora,Vendas Novas,47444.33,3531.0499999999997,13464.41,64439.79000000001
+Évora,Viana do Alentejo,102.23,17.51,35.28,155.02
+Évora,Vila Viçosa,4591.5,85.0,1585.5,6262.0
+Faro,Albufeira,956.5,268.7,397.0,1622.2
+Faro,Aljezur,14.0,10.0,3.5,27.5
+Faro,Castro Marim,45.69,0.0,41.3,86.99
+Faro,Faro,24.8,6.6,5.5,36.900000000000006
+Faro,Lagoa (Algarve),1510.6299999999997,281.88,1430.87,3223.38
+Faro,Lagos,145.5,9.0,80.25,234.75
+Faro,Loulé,627.5,170.0,58.5,856.0
+Faro,Monchique,41.0,0.0,0.0,41.0
+Faro,Portimão,1372.67,716.62,1378.1100000000001,3467.4
+Faro,São Brás de Alportel,80.0,0.0,0.0,80.0
+Faro,Silves,2540.2799999999997,686.99,2991.6900000000005,6218.96
+Faro,Tavira,3378.1100000000006,655.0,1216.1,5249.21
+Faro,Vila do Bispo,0.0,0.0,0.0,0.0
+Faro,Vila Real Santo António,12.0,0.0,0.0,12.0
+Guarda,Aguiar da Beira,22.0,0.0,0.0,22.0
+Guarda,Almeida,13.5,0.0,0.0,13.5
+Guarda,Celorico da Beira,132.0,0.0,0.0,132.0
+Guarda,Figueira Castelo Rodrigo,13159.490000000002,1448.0,11895.7,26503.19
+Guarda,Fornos de Algodres,75.0,0.0,12.0,87.0
+Guarda,Gouveia,13391.480000000001,703.3,4166.95,18261.73
+Guarda,Guarda,626.35,29.9,166.0,822.25
+Guarda,Meda,32721.29,363.0,8372.07,41456.36
+Guarda,Pinhel,111739.60999999999,13049.17,28017.07,152805.85
+Guarda,Seia,2577.42,258.0,595.2800000000001,3430.7000000000003
+Guarda,Trancoso,12580.0,3100.0,4200.0,19880.0
+Guarda,Vila Nova de Foz Côa,155182.47,1844.4499999999998,30170.040000000005,187196.96
+Leiria,Alcobaça,1208.77,105.0,376.69,1690.46
+Leiria,Alvaiázere,132.7,0.0,78.75,211.45
+Leiria,Ansião,190.5,0.0,49.5,240.0
+Leiria,Batalha,2560.0,100.0,495.53999999999996,3155.54
+Leiria,Bombarral,23250.899999999998,5597.0,15940.68,44788.58
+Leiria,Caldas da Rainha,30455.8,1063.5,10176.2,41695.5
+Leiria,Figueiró dos Vinhos,11.5,0.0,2.0,13.5
+Leiria,Leiria,979.0,30.5,302.9,1312.4
+Leiria,Óbidos,1311.75,52.05,462.0,1825.8
 Leiria,Pedrógão Grande,0.0,0.0,0.0,0.0
-Leiria,Peniche,0.0,0.0,0.0,0.0
-Leiria,Pombal,129.0,0.0,0.0,129.0
-Leiria,Porto de Mós,247.0,0.0,0.0,247.0
-Lisboa,Alenquer,29866.37,1630.0,3634.5000000000005,35130.87
-Lisboa,Arruda dos Vinhos,1041.0,35.0,156.0,1232.0
-Lisboa,Azambuja,21547.55,555.75,3300.5,25403.8
-Lisboa,Cadaval,4730.12,1958.6399999999999,2365.0,9053.76
-Lisboa,Lisboa,4.0,0.0,20.0,24.0
-Lisboa,Loures,12.0,50.0,552.0,614.0
-Lisboa,Lourinhã,405.0,10800.0,4265.82,15470.82
-Lisboa,Mafra,360.0,4.0,15.0,379.0
+Leiria,Peniche,1600.0,0.0,0.0,1600.0
+Leiria,Pombal,485.0,30.0,85.0,600.0
+Leiria,Porto de Mós,49.0,0.0,0.0,49.0
+Lisboa,Alenquer,213082.75,23308.63,55500.469999999994,291891.85
+Lisboa,Arruda dos Vinhos,10477.86,961.02,1709.75,13148.630000000003
+Lisboa,Azambuja,53621.78,2749.25,13303.150000000001,69674.18
+Lisboa,Cadaval,27376.39,11388.0,42157.71,80922.1
+Lisboa,Cascais,19.0,0.0,0.0,19.0
+Lisboa,Lisboa,34.0,0.0,64.0,98.0
+Lisboa,Loures,635.8799999999999,27.5,4145.63,4809.01
+Lisboa,Lourinhã,57606.54,9300.0,23418.25,90324.79000000001
+Lisboa,Mafra,121324.15,2296.6,16264.9,139885.65
 Lisboa,Odivelas,0.0,0.0,0.0,0.0
-Lisboa,Oeiras,22.0,15.0,0.0,37.0
-Lisboa,Sintra,68.05,0.0,0.0,68.05
-Lisboa,Sobral de Monte Agraço,2059.5,0.0,59.31,2118.81
-Lisboa,Torres Vedras,34320.11,8256.5,3863.32,46439.93
-Lisboa,Vila Franca de Xira,775.0,87.75,253.15,1115.9
-Portalegre,Alter do Chão,0.0,0.0,0.0,0.0
-Portalegre,Arronches,0.0,0.0,0.0,0.0
-Portalegre,Avis,150.0,0.0,0.0,150.0
-Portalegre,Campo Maior,29.0,0.0,6.0,35.0
-Portalegre,Castelo de Vide,69.5,0.0,29.3,98.8
-Portalegre,Crato,0.0,0.0,0.0,0.0
-Portalegre,Elvas,0.0,0.0,0.0,0.0
-Portalegre,Fronteira,0.0,338.85,0.0,338.85
+Lisboa,Oeiras,142.3,20.0,1063.75,1226.05
+Lisboa,Sintra,569.75,123.5,685.7200000000001,1378.9700000000003
+Lisboa,Sobral de Monte Agraço,6219.7,39.0,224.81,6483.51
+Lisboa,Torres Vedras,362591.71,34027.2,56905.40000000001,453524.31
+Lisboa,Vila Franca de Xira,970.0,168.0,495.0,1633.0
+Portalegre,Alter do Chão,1052.4,13.9,413.0,1479.3000000000002
+Portalegre,Arronches,956.0,41.85,353.25,1351.1
+Portalegre,Avis,9567.75,442.5,1660.8,11671.05
+Portalegre,Campo Maior,6128.849999999999,1170.7,2517.6,9817.15
+Portalegre,Castelo de Vide,40.5,0.0,19.049999999999997,59.55
+Portalegre,Crato,1369.0,370.0,326.25,2065.25
+Portalegre,Elvas,10943.6,1963.59,7500.69,20407.88
+Portalegre,Fronteira,5322.5,836.0,2515.25,8673.75
 Portalegre,Gavião,0.0,0.0,0.0,0.0
-Portalegre,Marvão,18.0,0.0,0.0,18.0
-Portalegre,Monforte,0.0,0.0,0.0,0.0
-Portalegre,Nisa,10.0,0.0,0.0,10.0
-Portalegre,Ponte de Sor,15.0,0.0,0.0,15.0
-Portalegre,Portalegre,243.55,25.0,119.75999999999999,388.31
-Portalegre,Sousel,1400.0,0.0,0.0,1400.0
-Porto,Amarante,48.0,124.36,295.09000000000003,467.45000000000005
-Porto,Baião,62.870000000000005,5.23,651.5,719.6
-Porto,Felgueiras,1034.07,110.0,4244.63,5388.7
-Porto,Gondomar,30.0,0.0,12.0,42.0
-Porto,Lousada,12.5,0.0,2.5,15.0
-Porto,Maia,0.0,0.0,0.0,0.0
-Porto,Marco de Canaveses,19.0,26.5,345.31,390.81
-Porto,Matosinhos,0.0,0.0,0.0,0.0
-Porto,Paços de Ferreira,0.0,0.0,0.0,0.0
-Porto,Paredes,0.0,5.18,727.5,732.68
-Porto,Penafiel,57.0,5.0,2552.43,2614.43
-Porto,Porto,0.0,0.0,0.0,0.0
-Porto,Póvoa de Varzim,0.0,0.0,0.0,0.0
-Porto,Santo Tirso,27.5,175.1,373.75,576.35
-Porto,Trofa,5.41,5.0,0.0,10.41
-Porto,Valongo,0.93,0.0,0.0,0.93
-Porto,Vila do Conde,0.0,0.0,0.0,0.0
-Porto,Vila Nova de Gaia,12.5,0.0,1.5,14.0
-Santarém,Abrantes,62.75,10.0,0.0,72.75
-Santarém,Almeirim,8406.25,30.0,41406.82,49843.07
-Santarém,Alpiarça,1770.0,1300.0,2945.9800000000005,6015.9800000000005
-Santarém,Benavente,0.0,0.0,0.0,0.0
-Santarém,Cartaxo,2933.07,265.0,780.0,3978.07
-Santarém,Chamusca,59.0,0.0,15.0,74.0
-Santarém,Coruche,147.5,0.0,20.0,167.5
-Santarém,Ferreira do Zêzere,2361.3999999999996,50.0,754.04,3165.4399999999996
+Portalegre,Marvão,180.0,0.0,52.5,232.5
+Portalegre,Monforte,3099.0,120.5,407.0,3626.5
+Portalegre,Nisa,16.0,0.0,3.0,19.0
+Portalegre,Ponte de Sor,1254.35,0.0,460.65,1715.0
+Portalegre,Portalegre,4915.96,467.0,2078.03,7460.99
+Portalegre,Sousel,1942.25,5.0,520.5,2467.75
+Porto,Amarante,7371.189999999997,7703.21,93207.09000000001,108281.49000000003
+Porto,Baião,861.62,1351.8,19697.53,21910.95
+Porto,Felgueiras,7463.4400000000005,11043.67,133725.32,152232.43
+Porto,Gondomar,87.5,10.5,756.1,854.1
+Porto,Lousada,987.83,2004.29,13383.169999999996,16375.289999999997
+Porto,Maia,39.8,5.0,197.00000000000003,241.80000000000004
+Porto,Marco de Canaveses,1758.7,450.73,8072.459999999999,10281.89
+Porto,Matosinhos,0.0,0.0,100.5,100.5
+Porto,Paços de Ferreira,85.0,0.0,242.0,327.0
+Porto,Paredes,247.59999999999997,20.0,1313.22,1580.82
+Porto,Penafiel,2823.9800000000005,3071.9,132697.44999999998,138593.32999999996
+Porto,Porto,51.50000000000001,4.0,56.5,112.0
+Porto,Póvoa de Varzim,18.9,0.0,65.65,84.55
+Porto,Santo Tirso,901.72,606.05,4634.27,6142.040000000001
+Porto,Trofa,37.57,55.5,111.5,204.57
+Porto,Valongo,951.7,1614.5,24669.46,27235.66
+Porto,Vila do Conde,93.53,0.0,153.63,247.16
+Porto,Vila Nova de Gaia,29.12,0.0,7.5,36.620000000000005
+Santarém,Abrantes,1250.69,60.25,185.0,1495.94
+Santarém,Almeirim,49055.7,21776.879999999997,231591.47999999998,302424.06
+Santarém,Alpiarça,17165.370000000003,25516.5,47507.22000000001,90189.09000000001
+Santarém,Benavente,1723.65,136.5,1032.0,2892.15
+Santarém,Cartaxo,83676.75,6274.2,31547.53,121498.48
+Santarém,Chamusca,69.15,0.0,16.05,85.2
+Santarém,Coruche,897.0,1612.0,425.0,2934.0
+Santarém,Ferreira do Zêzere,458.41999999999996,0.0,99.72,558.14
 Santarém,Golegã,0.0,0.0,0.0,0.0
-Santarém,Mação,32.0,1.8,6.0,39.8
-Santarém,Ourém,4169.58,81.0,997.8,5248.38
-Santarém,Rio Maior,3283.7,35.0,509.0,3827.7
-Santarém,Salvaterra de Magos,6.0,15.0,3.5,24.5
-Santarém,Santarém,14920.650000000001,13.0,6388.8,21322.45
-Santarém,Sardoal,42.0,0.0,6.5,48.5
-Santarém,Tomar,732.92,43.1,123.38,899.4
-Santarém,Torres Novas,426.25,0.0,40.2,466.45
-Setúbal,Alcácer do Sal,180.0,0.0,0.0,180.0
-Setúbal,Alcochete,0.0,0.0,0.0,0.0
+Santarém,Mação,84.42,0.0,39.4,123.82000000000001
+Santarém,Ourém,2231.08,96.79,519.6800000000001,2847.55
+Santarém,Rio Maior,7727.450000000001,113.25,2185.5,10026.2
+Santarém,Salvaterra de Magos,1079.5,109.0,604.0,1792.5
+Santarém,Santarém,25639.23,5577.68,9288.58,40505.490000000005
+Santarém,Sardoal,1682.5,100.0,304.99,2087.49
+Santarém,Tomar,3590.25,236.5,973.78,4800.530000000001
+Santarém,Torres Novas,3312.6,1292.0,1095.8,5700.4
+Setúbal,Alcácer do Sal,2969.5,167.5,1765.95,4902.95
+Setúbal,Alcochete,552.0,125.5,85.0,762.5
 Setúbal,Almada,0.0,0.0,0.0,0.0
-Setúbal,Barreiro,0.0,0.0,0.0,0.0
-Setúbal,Grândola,30.0,0.0,15.0,45.0
-Setúbal,Montijo,1742.12,0.0,532.4,2274.52
-Setúbal,Palmela,35028.99,718.0,4356.8,40103.79
-Setúbal,Santiago do Cacém,36.09,0.5,44.5,81.09
-Setúbal,Sesimbra,0.0,0.0,0.0,0.0
-Setúbal,Setúbal,680.0,30.0,2594.7999999999997,3304.7999999999997
-Viana do Castelo,Arcos de Valdevez,0.0,0.0,0.0,0.0
-Viana do Castelo,Caminha,0.0,0.0,0.0,0.0
-Viana do Castelo,Melgaço,5.0,0.0,10.0,15.0
-Viana do Castelo,Monção,0.0,0.0,0.72,0.72
-Viana do Castelo,Ponte da Barca,100.0,0.0,145.0,245.0
-Viana do Castelo,Ponte de Lima,361.0,19.5,21.5,402.0
-Viana do Castelo,Valença,240.0,0.0,128.0,368.0
-Viana do Castelo,Viana do Castelo,89.0,40.0,175.0,304.0
-Viana do Castelo,Vila Nova de Cerveira,0.0,0.0,26.0,26.0
-Vila Real,Alijó,5812.53,69.3,515.1800000000001,6397.01
-Vila Real,Boticas,15.0,0.0,0.0,15.0
-Vila Real,Chaves,845.35,2.25,119.75,967.35
-Vila Real,Mesão Frio,3330.13,7.5,428.0,3765.63
-Vila Real,Mondim de Basto,13.05,0.0,0.0,13.05
-Vila Real,Montalegre,12.5,0.0,0.0,12.5
-Vila Real,Murça,7154.51,887.07,5308.03,13349.61
-Vila Real,Peso da Régua,2161.88,21.0,272.13,2455.01
-Vila Real,Ribeira de Pena,0.0,0.0,76.8,76.8
-Vila Real,Sabrosa,1226.65,0.0,661.24,1887.89
-Vila Real,Santa Marta Penaguião,655.0100000000001,49.16,151.7,855.8700000000001
-Vila Real,Valpaços,751.5,300.0,20.0,1071.5
-Vila Real,Vila Pouca de Aguiar,15.0,0.0,5.0,20.0
-Vila Real,Vila Real,8337.400000000001,2710.5,4457.55,15505.45
-Viseu,Armamar,1741.37,1236.63,2206.16,5184.16
-Viseu,Carregal do Sal,341.97,11.0,48.0,400.97
-Viseu,Cinfães,10.0,0.0,50.0,60.0
-Viseu,Lamego,2734.8399999999997,866.25,2791.58,6392.67
-Viseu,Mangualde,581.0,8125.1,251.0,8957.1
-Viseu,Moimenta da Beira,0.0,7568.0,6967.2,14535.2
-Viseu,Mortágua,20.0,0.0,491.0,511.0
-Viseu,Nelas,974.3,0.0,79.0,1053.3
-Viseu,Oliveira de Frades,41.0,10.0,135.0,186.0
-Viseu,Penalva do Castelo,1194.25,9.0,252.0,1455.25
-Viseu,Penedono,0.0,0.0,10.0,10.0
-Viseu,Resende,171.42000000000002,20.5,3.0,194.92000000000002
-Viseu,Santa Comba Dão,473.6499999999999,55.0,9.0,537.6499999999999
-Viseu,São João da Pesqueira,6902.22,419.0,534.0,7855.22
-Viseu,São Pedro do Sul,35.0,0.0,15.0,50.0
-Viseu,Sátão,10.0,0.0,3.0,13.0
-Viseu,Sernancelhe,235.0,0.0,50.0,285.0
-Viseu,Tabuaço,1216.8500000000001,183.0,44.15,1444.0000000000002
-Viseu,Tarouca,250.5,1005.55,479.65,1735.6999999999998
-Viseu,Tondela,5271.55,0.0,2252.8,7524.35
-Viseu,Viseu,891.33,47.5,106.5,1045.33
+Setúbal,Barreiro,44.0,0.0,21.5,65.5
+Setúbal,Grândola,1418.8600000000001,20.5,1203.5,2642.86
+Setúbal,Montijo,38336.53,7800.0,35444.0,81580.53
+Setúbal,Palmela,148473.46000000002,12118.0,62971.62,223563.08000000005
+Setúbal,Santiago do Cacém,390.88,42.5,226.05,659.4300000000001
+Setúbal,Sesimbra,316.4,25.0,100.0,441.4
+Setúbal,Setúbal,69421.40999999999,14446.5,56814.659999999996,140682.56999999998
+Viana do Castelo,Arcos de Valdevez,1162.15,70.5,1015.7599999999999,2248.4100000000003
+Viana do Castelo,Caminha,12.0,4.0,59.9,75.9
+Viana do Castelo,Melgaço,1546.4,313.75,56376.990000000005,58237.14000000001
+Viana do Castelo,Monção,5709.74,1280.74,49943.83,56934.31000000001
+Viana do Castelo,Paredes de Coura,0.0,0.0,2.6,2.6
+Viana do Castelo,Ponte da Barca,7436.39,758.0,36411.34,44605.73
+Viana do Castelo,Ponte de Lima,6790.59,1047.79,44836.66000000001,52675.04
+Viana do Castelo,Valença,328.0,30.0,1507.3,1865.3
+Viana do Castelo,Viana do Castelo,1138.15,74.5,3953.13,5165.780000000001
+Viana do Castelo,Vila Nova de Cerveira,28.0,15.0,214.8,257.8
+Vila Real,Alijó,140663.37,10251.710000000001,104260.99,255176.06999999998
+Vila Real,Boticas,68.0,0.0,0.0,68.0
+Vila Real,Chaves,3759.45,145.25,1171.69,5076.389999999999
+Vila Real,Mesão Frio,17171.92,301.0,7670.57,25143.49
+Vila Real,Mondim de Basto,3127.01,360.5,4374.51,7862.02
+Vila Real,Montalegre,722.0,40.0,180.0,942.0
+Vila Real,Murça,24003.0,895.0,24122.44,49020.44
+Vila Real,Peso da Régua,71722.81000000001,2074.7400000000002,22187.35,95984.90000000002
+Vila Real,Ribeira de Pena,1599.87,30.0,671.9399999999999,2301.81
+Vila Real,Sabrosa,84491.51999999999,3850.11,30037.25,118378.88000000002
+Vila Real,Santa Marta Penaguião,77686.39,8176.59,41883.600000000006,127746.58
+Vila Real,Valpaços,11757.419999999998,771.68,3493.81,16022.91
+Vila Real,Vila Pouca de Aguiar,106.75,21.0,68.0,195.75
+Vila Real,Vila Real,111305.26000000001,3275.5,51140.899999999994,165721.66
+Viseu,Armamar,13085.56,3247.0,10234.380000000001,26566.940000000002
+Viseu,Carregal do Sal,6498.51,2990.0,3964.9500000000003,13453.46
+Viseu,Cinfães,478.06000000000006,0.0,1334.1200000000001,1812.18
+Viseu,Lamego,131065.27,6263.199999999999,41368.67,178697.14
+Viseu,Mangualde,25325.69,6686.75,9155.699999999999,41168.14
+Viseu,Moimenta da Beira,1662.0,15349.0,17043.0,34054.0
+Viseu,Mortágua,3625.2,252.0,1293.6299999999999,5170.829999999999
+Viseu,Nelas,15588.549999999997,1519.75,6395.77,23504.07
+Viseu,Oliveira de Frades,23.25,7.0,101.8,132.05
+Viseu,Penalva do Castelo,41517.950000000004,573.8,14038.1,56129.850000000006
+Viseu,Penedono,0.0,0.0,0.0,0.0
+Viseu,Resende,1461.02,204.66,1429.7900000000002,3095.47
+Viseu,Santa Comba Dão,296.54999999999995,0.0,14.0,310.54999999999995
+Viseu,São João da Pesqueira,180068.21999999997,5086.47,23226.01,208380.69999999995
+Viseu,São Pedro do Sul,127.0,18.0,133.15,278.15
+Viseu,Sátão,10.0,0.0,707.87,717.87
+Viseu,Sernancelhe,305.0,0.0,100.0,405.0
+Viseu,Tabuaço,56320.759999999995,766.01,10554.369999999999,67641.14
+Viseu,Tarouca,871.95,4288.2,6980.450000000001,12140.6
+Viseu,Tondela,12957.980000000001,295.0,5103.98,18356.96
+Viseu,Viseu,24254.579999999998,283.1,6735.15,31272.829999999998
 Viseu,Vouzela,15.0,0.0,0.0,15.0
-Açores,Angra do Heroísmo,142.95000000000002,0.0,16.919999999999998,159.87
-Açores,Praia da Vitória,212.07,14.44,104.85999999999999,331.37
-Açores,Santa Cruz da Graciosa,564.05,0.0,0.0,564.05
-Açores,Vila do Porto,16.75,3.7,13.8,34.25
-Açores,Horta,3.0,0.0,0.0,3.0
-Açores,Lajes do Pico,145.62,0.0,12.5,158.12
-Açores,Madalena,1311.0500000000002,1.0,0.07,1312.1200000000001
-Açores,São Roque do Pico,226.62,6.5,41.0,274.12
-Açores,Calheta (São Jorge),31.3,2.3,50.300000000000004,83.9
-Açores,Velas,0.38,0.0,0.0,0.38
-Açores,Ponta Delgada,8.0,0.0,3.0,11.0
+Açores,Angra do Heroísmo,24.57,0.0,1.06,25.63
+Açores,Praia da Vitória,83.8,7.65,110.33999999999997,201.79
+Açores,Santa Cruz da Graciosa,132.6,0.0,48.50000000000001,181.10000000000002
+Açores,Vila do Porto,5.660000000000001,0.0,47.44,53.1
+Açores,Horta,8.27,0.0,11.15,19.419999999999998
+Açores,Lajes do Pico,37.82,0.0,7.6899999999999995,45.51
+Açores,Madalena,627.46,158.45,1135.1399999999996,1921.0499999999997
+Açores,São Roque do Pico,108.31,41.55,601.3499999999999,751.2099999999999
+Açores,Calheta (São Jorge),24.1,0.6,21.5,46.2
+Açores,Velas,0.0,0.0,1.32,1.32
+Açores,Ponta Delgada,21.740000000000002,0.0,29.89,51.63
 Açores,Povoação,0.0,0.0,0.0,0.0
-Açores,Vila Franca do Campo,542.85,0.0,0.0,542.85
-Madeira,Calheta,33.596250000000005,0.0,2.3715,35.96775
-Madeira,Câmara de Lobos,145.49152500000002,0.0,17.983875,163.47540000000004
-Madeira,Funchal,0.0,0.0,7.1145000000000005,7.1145000000000005
-Madeira,Machico,32.4105,0.0,0.0,32.4105
+Açores,Vila Franca do Campo,337.95000000000005,0.0,26.95,364.9
+Madeira,Calheta,20.55,0.0,6.48,27.03
+Madeira,Câmara de Lobos,7948.01,0.0,60.620000000000005,8008.63
+Madeira,Funchal,1883.48,0.0,4.19,1887.6699999999998
+Madeira,Machico,6982.47,302.5,119.5,7404.47
 Madeira,Ponta do Sol,0.0,0.0,0.0,0.0
-Madeira,Porto Moniz,93.19995,0.0,25.873064999999997,119.073015
-Madeira,Porto Santo,55.730250000000005,0.0,58.287850000000006,114.0181
-Madeira,Ribeira Brava,51.3825,0.0,8.102625,59.485125
-Madeira,Santa Cruz,0.0,0.0,0.0,0.0
-Madeira,Santana,30.1971,0.0,10.987950000000001,41.185050000000004
-Madeira,São Vicente,315.7257000000001,0.0,4.1106,319.83630000000005
+Madeira,Porto Moniz,98.46,0.0,26.78,125.24
+Madeira,Porto Santo,141.09,99.2,164.75,405.04
+Madeira,Ribeira Brava,31.07,0.0,12.02,43.09
+Madeira,Santa Cruz,11327.93,35.5,181.19,11544.62
+Madeira,Santana,53.28,0.0,14.65,67.93
+Madeira,São Vicente,386.13,75.82000000000001,479.0,940.9499999999999
