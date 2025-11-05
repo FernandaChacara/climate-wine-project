@@ -1,0 +1,273 @@
+Distrito,Concelho,TotalGeral_Tinto,TotalGeral_Rosado,TotalGeral_Branco,TotalGeral_Total
+Aveiro,Águeda,1362,1666,3432,6459
+Aveiro,Albergaria-a-Velha,223,21,265,509
+Aveiro,Anadia,29328,35995,34513,99837
+Aveiro,Arouca,95,0,267,363
+Aveiro,Aveiro,62,0,18,80
+Aveiro,Castelo de Paiva,5354,86,14811,20250
+Aveiro,Estarreja,14,6,21,41
+Aveiro,Ílhavo,18,11,0,29
+Aveiro,Mealhada,4015,1618,4522,10155
+Aveiro,Oliveira de Azeméis,0,0,8,8
+Aveiro,Oliveira do Bairro,3175,456,5163,8795
+Aveiro,Santa Maria da Feira,4,0,0,4
+Aveiro,Sever do Vouga,73,10,84,167
+Aveiro,Vagos,70,0,68,138
+Aveiro,Vale de Cambra,757,650,1850,3257
+Beja,Aljustrel,4758,0,1331,6089
+Beja,Alvito,2676,36,917,3630
+Beja,Beja,39253,2867,10971,53091
+Beja,Castro Verde,1400,0,600,2000
+Beja,Cuba,6805,1104,2887,10796
+Beja,Ferreira do Alentejo,0,0,0,0
+Beja,Mértola,662,15,330,1007
+Beja,Moura,9519,33,3394,12947
+Beja,Odemira,1630,121,1260,3011
+Beja,Ourique,39,0,0,39
+Beja,Serpa,15441,518,3338,19297
+Beja,Vidigueira,72807,3072,47316,123194
+Braga,Amares,1907,419,25840,28166
+Braga,Barcelos,3206,377,39581,43164
+Braga,Braga,1404,138,2851,4394
+Braga,Cabeceiras de Basto,3541,600,5322,9463
+Braga,Celorico de Basto,10608,7452,61274,79334
+Braga,Esposende,215,284,2729,3228
+Braga,Fafe,6321,0,18609,24930
+Braga,Guimarães,3165,917,17992,22074
+Braga,Póvoa de Lanhoso,1528,0,7391,8920
+Braga,Terras de Bouro,76,0,2,78
+Braga,Vieira do Minho,74,0,0,74
+Braga,Vila Nova de Famalicão,1756,1493,14552,17801
+Braga,Vila Verde,1326,174,1896,3396
+Braga,Vizela,2003,1080,10204,13286
+Bragança,Alfandega da Fé,146,16,66,228
+Bragança,Bragança,239,14,64,318
+Bragança,Carrazeda de Ansiães,28339,206,7760,36306
+Bragança,Freixo Espada à Cinta,24694,230,4947,29871
+Bragança,Macedo de Cavaleiros,7200,237,414,7850
+Bragança,Miranda do Douro,1905,116,571,2591
+Bragança,Mirandela,2896,112,450,3459
+Bragança,Mogadouro,655,41746,3951,46352
+Bragança,Torre de Moncorvo,19383,284,4640,24307
+Bragança,Vila Flor,23100,853,3038,26991
+Bragança,Vimioso,1260,22,28,1310
+Bragança,Vinhais,11365,0,1735,13100
+Castelo Branco,Belmonte,3223,59,1035,4317
+Castelo Branco,Castelo Branco,301,6,56,363
+Castelo Branco,Covilhã,508,20,84,612
+Castelo Branco,Fundão,4494,16,556,5066
+Castelo Branco,Oleiros,20,0,10,30
+Castelo Branco,Penamacor,208,0,68,276
+Castelo Branco,Proença-a-Nova,578,29,106,713
+Castelo Branco,Sertã,115,2,31,148
+Castelo Branco,Vila Velha de Rodão,52,0,165,217
+Coimbra,Arganil,59,12,25,96
+Coimbra,Cantanhede,15291,6474,22981,44745
+Coimbra,Coimbra,1472,215,1247,2934
+Coimbra,Condeixa-a-Nova,644,8,170,822
+Coimbra,Figueira da Foz,0,0,0,0
+Coimbra,Lousã,152,0,70,222
+Coimbra,Miranda do Corvo,1730,31,406,2168
+Coimbra,Montemor-o-Velho,4,0,1,4
+Coimbra,Oliveira do Hospital,244,1,318,563
+Coimbra,Penacova,46,0,9,55
+Coimbra,Penela,1028,122,327,1478
+Coimbra,Soure,71,0,11,82
+Coimbra,Tábua,28,7,64,99
+Évora,Arraiolos,39480,2748,7963,50191
+Évora,Borba,120428,4911,40771,166110
+Évora,Estremoz,65015,5433,18041,88489
+Évora,Évora,62107,8000,28498,98605
+Évora,Montemor-o-Novo,14670,407,2769,17846
+Évora,Mora,433,28,46,507
+Évora,Mourão,17144,720,1721,19585
+Évora,Portel,357,22,222,601
+Évora,Redondo,89150,5500,27847,122497
+Évora,Reguengos Monsaraz,164408,3222,45769,213400
+Évora,Vendas Novas,47444,3531,13464,64440
+Évora,Viana do Alentejo,102,18,35,155
+Évora,Vila Viçosa,4592,85,1586,6262
+Faro,Albufeira,956,269,397,1622
+Faro,Aljezur,14,10,4,28
+Faro,Castro Marim,46,0,41,87
+Faro,Faro,25,7,6,37
+Faro,Lagoa (Algarve),1511,282,1431,3223
+Faro,Lagos,146,9,80,235
+Faro,Loulé,628,170,58,856
+Faro,Monchique,41,0,0,41
+Faro,Portimão,1373,717,1378,3467
+Faro,São Brás de Alportel,80,0,0,80
+Faro,Silves,2540,687,2992,6219
+Faro,Tavira,3378,655,1216,5249
+Faro,Vila do Bispo,0,0,0,0
+Faro,Vila Real Santo António,12,0,0,12
+Guarda,Aguiar da Beira,22,0,0,22
+Guarda,Almeida,14,0,0,14
+Guarda,Celorico da Beira,132,0,0,132
+Guarda,Figueira Castelo Rodrigo,13159,1448,11896,26503
+Guarda,Fornos de Algodres,75,0,12,87
+Guarda,Gouveia,13391,703,4167,18262
+Guarda,Guarda,626,30,166,822
+Guarda,Meda,32721,363,8372,41456
+Guarda,Pinhel,111740,13049,28017,152806
+Guarda,Seia,2577,258,595,3431
+Guarda,Trancoso,12580,3100,4200,19880
+Guarda,Vila Nova de Foz Côa,155182,1844,30170,187197
+Leiria,Alcobaça,1209,105,377,1690
+Leiria,Alvaiázere,133,0,79,211
+Leiria,Ansião,190,0,50,240
+Leiria,Batalha,2560,100,496,3156
+Leiria,Bombarral,23251,5597,15941,44789
+Leiria,Caldas da Rainha,30456,1064,10176,41696
+Leiria,Figueiró dos Vinhos,12,0,2,14
+Leiria,Leiria,979,30,303,1312
+Leiria,Óbidos,1312,52,462,1826
+Leiria,Pedrógão Grande,0,0,0,0
+Leiria,Peniche,1600,0,0,1600
+Leiria,Pombal,485,30,85,600
+Leiria,Porto de Mós,49,0,0,49
+Lisboa,Alenquer,213083,23309,55500,291892
+Lisboa,Arruda dos Vinhos,10478,961,1710,13149
+Lisboa,Azambuja,53622,2749,13303,69674
+Lisboa,Cadaval,27376,11388,42158,80922
+Lisboa,Cascais,19,0,0,19
+Lisboa,Lisboa,34,0,64,98
+Lisboa,Loures,636,28,4146,4809
+Lisboa,Lourinhã,57607,9300,23418,90325
+Lisboa,Mafra,121324,2297,16265,139886
+Lisboa,Odivelas,0,0,0,0
+Lisboa,Oeiras,142,20,1064,1226
+Lisboa,Sintra,570,124,686,1379
+Lisboa,Sobral de Monte Agraço,6220,39,225,6484
+Lisboa,Torres Vedras,362592,34027,56905,453524
+Lisboa,Vila Franca de Xira,970,168,495,1633
+Portalegre,Alter do Chão,1052,14,413,1479
+Portalegre,Arronches,956,42,353,1351
+Portalegre,Avis,9568,442,1661,11671
+Portalegre,Campo Maior,6129,1171,2518,9817
+Portalegre,Castelo de Vide,40,0,19,60
+Portalegre,Crato,1369,370,326,2065
+Portalegre,Elvas,10944,1964,7501,20408
+Portalegre,Fronteira,5322,836,2515,8674
+Portalegre,Gavião,0,0,0,0
+Portalegre,Marvão,180,0,52,232
+Portalegre,Monforte,3099,120,407,3626
+Portalegre,Nisa,16,0,3,19
+Portalegre,Ponte de Sor,1254,0,461,1715
+Portalegre,Portalegre,4916,467,2078,7461
+Portalegre,Sousel,1942,5,520,2468
+Porto,Amarante,7371,7703,93207,108281
+Porto,Baião,862,1352,19698,21911
+Porto,Felgueiras,7463,11044,133725,152232
+Porto,Gondomar,88,10,756,854
+Porto,Lousada,988,2004,13383,16375
+Porto,Maia,40,5,197,242
+Porto,Marco de Canaveses,1759,451,8072,10282
+Porto,Matosinhos,0,0,100,100
+Porto,Paços de Ferreira,85,0,242,327
+Porto,Paredes,248,20,1313,1581
+Porto,Penafiel,2824,3072,132697,138593
+Porto,Porto,52,4,56,112
+Porto,Póvoa de Varzim,19,0,66,85
+Porto,Santo Tirso,902,606,4634,6142
+Porto,Trofa,38,56,112,205
+Porto,Valongo,952,1614,24669,27236
+Porto,Vila do Conde,94,0,154,247
+Porto,Vila Nova de Gaia,29,0,8,37
+Santarém,Abrantes,1251,60,185,1496
+Santarém,Almeirim,49056,21777,231591,302424
+Santarém,Alpiarça,17165,25516,47507,90189
+Santarém,Benavente,1724,136,1032,2892
+Santarém,Cartaxo,83677,6274,31548,121498
+Santarém,Chamusca,69,0,16,85
+Santarém,Coruche,897,1612,425,2934
+Santarém,Ferreira do Zêzere,458,0,100,558
+Santarém,Golegã,0,0,0,0
+Santarém,Mação,84,0,39,124
+Santarém,Ourém,2231,97,520,2848
+Santarém,Rio Maior,7727,113,2186,10026
+Santarém,Salvaterra de Magos,1080,109,604,1792
+Santarém,Santarém,25639,5578,9289,40505
+Santarém,Sardoal,1682,100,305,2087
+Santarém,Tomar,3590,236,974,4801
+Santarém,Torres Novas,3313,1292,1096,5700
+Setúbal,Alcácer do Sal,2970,168,1766,4903
+Setúbal,Alcochete,552,126,85,762
+Setúbal,Almada,0,0,0,0
+Setúbal,Barreiro,44,0,22,66
+Setúbal,Grândola,1419,20,1204,2643
+Setúbal,Montijo,38337,7800,35444,81581
+Setúbal,Palmela,148473,12118,62972,223563
+Setúbal,Santiago do Cacém,391,42,226,659
+Setúbal,Sesimbra,316,25,100,441
+Setúbal,Setúbal,69421,14446,56815,140683
+Viana do Castelo,Arcos de Valdevez,1162,70,1016,2248
+Viana do Castelo,Caminha,12,4,60,76
+Viana do Castelo,Melgaço,1546,314,56377,58237
+Viana do Castelo,Monção,5710,1281,49944,56934
+Viana do Castelo,Paredes de Coura,0,0,3,3
+Viana do Castelo,Ponte da Barca,7436,758,36411,44606
+Viana do Castelo,Ponte de Lima,6791,1048,44837,52675
+Viana do Castelo,Valença,328,30,1507,1865
+Viana do Castelo,Viana do Castelo,1138,74,3953,5166
+Viana do Castelo,Vila Nova de Cerveira,28,15,215,258
+Vila Real,Alijó,140663,10252,104261,255176
+Vila Real,Boticas,68,0,0,68
+Vila Real,Chaves,3759,145,1172,5076
+Vila Real,Mesão Frio,17172,301,7671,25143
+Vila Real,Mondim de Basto,3127,360,4375,7862
+Vila Real,Montalegre,722,40,180,942
+Vila Real,Murça,24003,895,24122,49020
+Vila Real,Peso da Régua,71723,2075,22187,95985
+Vila Real,Ribeira de Pena,1600,30,672,2302
+Vila Real,Sabrosa,84492,3850,30037,118379
+Vila Real,Santa Marta Penaguião,77686,8177,41884,127747
+Vila Real,Valpaços,11757,772,3494,16023
+Vila Real,Vila Pouca de Aguiar,107,21,68,196
+Vila Real,Vila Real,111305,3276,51141,165722
+Viseu,Armamar,13086,3247,10234,26567
+Viseu,Carregal do Sal,6499,2990,3965,13453
+Viseu,Cinfães,478,0,1334,1812
+Viseu,Lamego,131065,6263,41369,178697
+Viseu,Mangualde,25326,6687,9156,41168
+Viseu,Moimenta da Beira,1662,15349,17043,34054
+Viseu,Mortágua,3625,252,1294,5171
+Viseu,Nelas,15589,1520,6396,23504
+Viseu,Oliveira de Frades,23,7,102,132
+Viseu,Penalva do Castelo,41518,574,14038,56130
+Viseu,Penedono,0,0,0,0
+Viseu,Resende,1461,205,1430,3095
+Viseu,Santa Comba Dão,297,0,14,311
+Viseu,São João da Pesqueira,180068,5086,23226,208381
+Viseu,São Pedro do Sul,127,18,133,278
+Viseu,Sátão,10,0,708,718
+Viseu,Sernancelhe,305,0,100,405
+Viseu,Tabuaço,56321,766,10554,67641
+Viseu,Tarouca,872,4288,6980,12141
+Viseu,Tondela,12958,295,5104,18357
+Viseu,Viseu,24255,283,6735,31273
+Viseu,Vouzela,15,0,0,15
+Açores,Angra do Heroísmo,25,0,1,26
+Açores,Praia da Vitória,84,8,110,202
+Açores,Santa Cruz da Graciosa,133,0,49,181
+Açores,Vila do Porto,6,0,47,53
+Açores,Horta,8,0,11,19
+Açores,Lajes do Pico,38,0,8,46
+Açores,Madalena,627,158,1135,1921
+Açores,São Roque do Pico,108,42,601,751
+Açores,Calheta (São Jorge),24,1,22,46
+Açores,Velas,0,0,1,1
+Açores,Ponta Delgada,22,0,30,52
+Açores,Povoação,0,0,0,0
+Açores,Vila Franca do Campo,338,0,27,365
+Madeira,Calheta,21,0,6,27
+Madeira,Câmara de Lobos,7948,0,61,8009
+Madeira,Funchal,1883,0,4,1888
+Madeira,Machico,6982,302,120,7404
+Madeira,Ponta do Sol,0,0,0,0
+Madeira,Porto Moniz,98,0,27,125
+Madeira,Porto Santo,141,99,165,405
+Madeira,Ribeira Brava,31,0,12,43
+Madeira,Santa Cruz,11328,36,181,11545
+Madeira,Santana,53,0,15,68
+Madeira,São Vicente,386,76,479,941
